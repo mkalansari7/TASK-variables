@@ -38,9 +38,9 @@ const image = "https://pbs.twimg.com/profile_images/1471446934015680523/9L0nzNpO
 // const yearOfBirthString =
 // const hobbyString =
 
-let fullNameString = `My name is ${fullName}`;
-let yearOfBirthString = `I am ${2021 - yearOfBirth}`;
-let hobbyString = `My hobby is ${hobby}`;
+const fullNameString = `My name is ${fullName}`;
+const yearOfBirthString = `I am ${2021 - yearOfBirth}`;
+const hobbyString = `My hobby is ${hobby}`;
 
 
 
